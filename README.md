@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on backend development with Ruby on Rails<br>I’m looking to collaborate on projects to improve technology<br>I’m looking for help with Javascript & Rails<br>I’m currently learning Ruby on rails<br>Ask me about anything technology<br> Contact me on: mbolonzi.design@gmail.com <br>
+ I’m currently working on backend development with Ruby on Rails<br>I’m looking to collaborate on projects to improve technology<br>I’m looking for help with Javascript & Rails<br>I’m currently learning ReactJs & Ruby on rails<br>Ask me about anything technology<br> Contact me on: mbolonzi.design@gmail.com <br>
 
 
 ## 🌐 Socials:
