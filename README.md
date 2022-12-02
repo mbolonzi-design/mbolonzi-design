@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 
-![](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif)
+<!-- ![](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif) -->
  I’m currently working on a Tours and Travels web application.<br>I’m looking to collaborate on open source projects.<br>I’m currently learning Reactjs & Rails.<br>Ask me about anything technology<br> Reach me on: mbolonzi.design@gmail.com <br>
 
 ### 🌐 Socials:
