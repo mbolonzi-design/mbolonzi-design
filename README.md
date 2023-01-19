@@ -1,8 +1,8 @@
-## 💫 About Me
+## 💫 Hi, there am Mbolonzi
 
 
 <!-- ![](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif) -->
- I’m currently working on a Travel & Tours web application.<br>I’m looking to collaborate on open source projects.<br>I’m currently learning Reactjs & Rails.<br>Ask me about anything technology<br> Reach me on: mbolonzi.design@gmail.com <br>
+ <br>I’m looking to collaborate on open source projects.<br>I’m currently learning Reactjs & Rails.<br>Ask me about anything technology<br> Reach me on: mbolonzi.design@gmail.com <br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbolonzi-peter) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mbolonzi-design) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mbolonzi_) 
